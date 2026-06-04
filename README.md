@@ -4,9 +4,8 @@ My Data Structures and Algorithms practice in C++.
 
 ## Topics
 
-## Solved Problems
 # Arrays
-
+## Solved Problems
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./1_Two_sum.cpp)
 

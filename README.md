@@ -4,12 +4,9 @@ My Data Structures and Algorithms practice in C++.
 
 ## Topics
 
-# Arrays
-
 ## Solved Problems
 # Arrays
 
-## Solved Problems
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./1_Two_sum.cpp)
 
@@ -26,4 +23,5 @@ My Data Structures and Algorithms practice in C++.
 - [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./540_Single_element_in_sorted_array.cpp)
 
 ## Total Problems Solved
-2
+
+7

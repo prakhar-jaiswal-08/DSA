@@ -21,6 +21,8 @@ My Data Structures and Algorithms practice in C++.
 
 - [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./540_Single_element_in_sorted_array.cpp)
 
+- [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [solution](./1283_Find_the_Smallest_Divisor_Given_a_Threshold.cpp)
+  
 ## Total Problems Solved
 
-7
+8
